@@ -14,9 +14,9 @@
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhijai-rajawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatchaube" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abhijai_rajawat25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshatchaube" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhijairajawat?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshatchaube" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijai-rajawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijairajawat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhijai_rajawat25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijairajawat" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhijairajawat?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhijairajawat" height="30" width="40" /></a>
 <a href="https://leetcode.com/Severus25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Leet-Code.svg" alt="abhijairajawat" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Severus25" target="blank"><img align="center" src="cf_logo.png" alt="Severus25" height="30" width="40" /></a>
 </p>
