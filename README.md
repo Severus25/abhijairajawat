@@ -20,6 +20,8 @@
 <a href="https://www.hackerrank.com/abhijairajawat?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhijairajawat" height="30" width="40" /></a>
 <a href="https://leetcode.com/Severus25/" target="blank"><img align="center" src="leetcode-icon-filled.png" alt="abhijairajawat" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Severus25" target="blank"><img align="center" src="cf_logo.png" alt="Severus25" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhijairajawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhijairajawat" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left"> ⚒️ Languages and Tools:</h3>
