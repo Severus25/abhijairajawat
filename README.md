@@ -12,16 +12,15 @@
 - 📄 Check my **[RESUME](https://drive.google.com/file/d/1ZrR-lIyXk3RrHHrxIpemm95Fp7p7ioN3/view?usp=sharing)**
 
 
-<h3 align="left"> 🤝 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhijai-rajawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijairajawat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abhijai_rajawat25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijairajawat" height="30" width="40" /></a>
-<a href="https://twitter.com/Abhijai_Rajawat" target="blank"><img align="center" src="twitter_logo.jpg" alt="abhijairajawat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhijairajawat?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhijairajawat" height="30" width="40" /></a>
-<a href="https://leetcode.com/Severus25/" target="blank"><img align="center" src="leetcode-icon-filled.png" alt="abhijairajawat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Severus25" target="blank"><img align="center" src="cf_logo.png" alt="Severus25" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhijairajawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhijairajawat" height="30" width="40" /></a>
-
+<a href="https://twitter.com/abhijai_rajawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijai_rajawat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijai-rajawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijai-rajawat/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/severus25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/severus25" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhijairajawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhijairajawat" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/severus25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/severus25" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/severus25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/severus25/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhijairajawat/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhijairajawat/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
