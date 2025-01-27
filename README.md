@@ -9,7 +9,7 @@
 ## About Me : 👨‍💻
 - ⚡ **Chasing Excellence** 
 - 📫 Reach me at:  **abhijairajawat@gmail.com**
-- 📄 Check my **[RESUME](https://drive.google.com/file/d/1ZrR-lIyXk3RrHHrxIpemm95Fp7p7ioN3/view?usp=sharing)**
+- 📄 Check my **[RESUME](https://drive.google.com/file/d/1pZws_BPvyUvzBnaSgeKCmb2chKxBeGX1/view?usp=sharing)**
 
 
 <h3 align="left">Connect with me:</h3>
